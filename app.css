@@ -51,7 +51,6 @@ html, body {
     grid-column: 1;
     grid-row: 2;
     align-self: start;
-    padding: 1em;
 }
 
 .design {
@@ -75,7 +74,7 @@ html, body {
 
 
 .chunk {
-    width: 5em;
-    height: 2em;
+    width: 4em;
+    height: 1.5em;
     border: 1px dotted #939393;
 }
